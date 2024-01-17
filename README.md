@@ -25,8 +25,9 @@ _Objectif_ : Cibler les zones pointées et leur appliquer différents traitement
 
 _Plusieurs étapes pour l’atteindre_ : 
 
--Déterminer l’orientation de la flèche 
-    Direction et sens
+-Déterminer l’orientation de la flèche : Direction et sens
+    
 -Délimiter la zone d’extraction de la région d'intérêt (ROI)
+
 -Appliquer différents types de traitements sur la ROI 
 
