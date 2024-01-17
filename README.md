@@ -40,6 +40,7 @@ _Plusieurs étapes pour l’atteindre_ :
 
 ## Résultats au niveau de direction  : 
 Accuracy : 90.6% sur un total de 53 flèches
+
 ![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/64de5a1a-de35-4e9e-8825-46845b9bb63a)
 
 ![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/a1b0450d-2840-4ae2-b932-e18b11954976)
@@ -47,6 +48,7 @@ Accuracy : 90.6% sur un total de 53 flèches
 ## Résultat au niveau de l'extraction 
 
 _Affichage des ROI_ : 
+
 ![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/aa1e5d59-927c-457c-9485-9c7c52ccfcd9)
 
 _Traitement des ROI_ :
