@@ -54,19 +54,23 @@ _Affichage des ROI_ :
 _Traitement des ROI_ :
 Image originale : 
 
-![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/5341d004-7864-42ab-a2cc-08fe0508bfaa)
+![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/f6fdaa01-2ee9-4319-927f-21392bbc4897)
+
 
 Traitements proposés : 
 
-![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/5c9dd2d2-013a-4fdb-9ecf-9c0abc74a309)
+![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/972a7e6e-def4-4617-9747-2442fe9e3686)
+
 
 Exemple sur l'ensemble de l'image :
 
-![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/020331e3-e507-48c9-b1bf-ad26b2211856)
+![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/ccab3c60-0583-44db-a1ac-65c39db9facb)
+
 
 Traitements : 
 
-![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/d2f8ffe1-55ec-4836-9f74-6a20cd76dfba)
+![image](https://github.com/Calliope-commits/Extraction-et-reconnaissance-de-pointeurs-pr--segment-s-dans-des-images-m-dicales/assets/61286710/43a393f5-4bf1-4ead-b085-a755a0b8f3f0)
+
 
 
 
